@@ -8,7 +8,7 @@
 
 ## Creating a Migrations Project
 
-Small tutorial on how to create migrations with Larvel 5.1
+Small tutorial on how to create migrations with Laravel 5.1.
 
 
 ### License
